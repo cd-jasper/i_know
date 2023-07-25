@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/drawable_float_stop_button_background.xml.flat",
+        "source": "com.damai.helper.app-main-27:/drawable/float_stop_button_background.xml"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.damai.helper.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/xml_accessibility_service_config.xml.flat",
+        "source": "com.damai.helper.app-main-27:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/drawable_start_button_background.xml.flat",
+        "source": "com.damai.helper.app-main-27:/drawable/start_button_background.xml"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/drawable_ic_notification.png.flat",
+        "source": "com.damai.helper.app-main-27:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/drawable_ic_logo.png.flat",
+        "source": "com.damai.helper.app-main-27:/drawable/ic_logo.png"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.damai.helper.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.damai.helper.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.damai.helper.app-merged_res-25:/drawable_float_start_button_background.xml.flat",
+        "source": "com.damai.helper.app-main-27:/drawable/float_start_button_background.xml"
+    }
+]

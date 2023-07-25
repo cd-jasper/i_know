@@ -1,0 +1,4 @@
+com.damai.helper.test.app-androidTest-0 /Users/zhanghaoqi/Desktop/01-个人项目/damaiapp/damai-helper/app/build/generated/res/resValues/androidTest/debug
+com.damai.helper.test.app-mergeDebugAndroidTestResources-1 /Users/zhanghaoqi/Desktop/01-个人项目/damaiapp/damai-helper/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.damai.helper.test.app-mergeDebugAndroidTestResources-2 /Users/zhanghaoqi/Desktop/01-个人项目/damaiapp/damai-helper/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.damai.helper.test.app-merged_res-3 /Users/zhanghaoqi/Desktop/01-个人项目/damaiapp/damai-helper/app/build/intermediates/merged_res/debugAndroidTest
